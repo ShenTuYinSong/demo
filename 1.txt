@@ -1,1 +1,12 @@
-111
+
+:e!
+cat -v
+cat 1.txt
+
+:wq
+
+ssswq
+wq
+
+:wq!
+
